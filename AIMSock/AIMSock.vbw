@@ -1,0 +1,16 @@
+AIMSockOCX = 132, 132, 731, 492, , 44, 44, 581, 524, C
+cAIMSocket = 22, 22, 653, 502, 
+IAIMSocketEvents = 88, 88, 687, 448, C
+cAIMRecvBuffer = 0, 0, 0, 0, C
+modMemoryFunctions = 0, 0, 0, 0, C
+cAIMPacketAnalyzer = 0, 0, 0, 0, C
+modAIMData = 0, 0, 599, 360, C
+cAIMPacketBuffer = 154, 154, 753, 514, 
+cMD5 = 0, 0, 0, 0, C
+cAIMAuthorization = 44, 44, 643, 404, 
+cAIMBOS = 0, 0, 0, 0, C
+cAIMService = 0, 0, 0, 0, C
+cAIMSSI = 0, 0, 0, 0, C
+cAIMLocationServices = 0, 0, 0, 0, C
+cAIMBuddyList = 0, 0, 0, 0, C
+cAIMICBM = 0, 0, 0, 0, C
